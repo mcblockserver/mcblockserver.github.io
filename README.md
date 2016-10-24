@@ -1,2 +1,2 @@
-# mcblock.github.io
+# mcblockserver.github.io
 McBlock Offical Website
